@@ -160,9 +160,6 @@ Scripts/csgdbutil-epc-vars.build
 
 ##eCare
 bin
-.classpath
-.project
-.settings
 **/attic/
 **/.settings/
 **/.apt_generated
