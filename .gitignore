@@ -182,7 +182,7 @@ bin
 **/wsdl-generated
 SSM
 **/.gradle
-csg-poet-asset-list-function/.settings
+/.settings
 *.factorypath
 *.classpath
 *.project
